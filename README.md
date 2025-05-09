@@ -14,7 +14,7 @@ I'm a **Backend Software Engineer** in training through the **ALX SE Program**, 
 
 ### 💼 Current Projects
 
-- 🏠 **[Airbnb Clone](https://github.com/yourusername/airbnb-clone)** – Backend logic, storage engines, and REST APIs built from scratch
+- 🏠 **[Airbnb Clone]([https://github.com/Gatlat-cs2023/airbnb-clone-project])** – Backend logic, storage engines, and REST APIs built from scratch
 - 🔁 **ALX SE Challenges** – Daily problem-solving and team projects
 - 🌐 Learning full development cycles, from console to web apps
 
